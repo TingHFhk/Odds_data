@@ -1,0 +1,4 @@
+git clone D:\Users\TING\Downloads
+cd D:\Users\TING\Downloads
+ipython notebook
+git add Scrape+All+Odds+Data.ipynb
